@@ -1,5 +1,3 @@
-// Fibonacci_sequesnce unto n terms
-
 const number = parseInt(
   prompt(
     "Enter the number (greater than zero) upto which you want fibonacci sequence: "
